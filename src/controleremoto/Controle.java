@@ -14,7 +14,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Fernando
+ * @author Fernando Portella
  */
 public class Controle extends javax.swing.JFrame {
 
